@@ -12,7 +12,7 @@ description: > # Description goes here...
         Hello! I'm a Computer Science student and freelancer from Virginia.
         I'll be using this space to document my programming journey, with the
         intent of making a habit of writing and learning.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://xanmead.github.io" # the base hostname & protocol for your site
 github_username:  xanmead
 
