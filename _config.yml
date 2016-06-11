@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Xan's Dev Blog
+email: x.m.mead@gmail.com
+description: > # Description goes here...
+        Hello! I'm a Computer Science student and freelancer from Virginia.
+        I'll be using this space to document my programming journey, with the
+        intent of making a habit of writing and learning.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://xanmead.github.io" # the base hostname & protocol for your site
+github_username:  xanmead
+
+# Build settings
+markdown: kramdown
